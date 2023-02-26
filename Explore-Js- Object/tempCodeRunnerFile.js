@@ -1,1 +1,1 @@
- console.log(key, bottle[key]);
+const third = second;
